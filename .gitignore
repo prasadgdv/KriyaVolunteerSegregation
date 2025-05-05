@@ -37,3 +37,8 @@ pdfs_*/
 excels_*/
 pdfs/
 excels/
+
+# All Excel and PDF files
+*.xlsx
+*.xls
+*.pdf
