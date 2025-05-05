@@ -1,0 +1,33 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+
+# Temporary Excel files
+~$*.xlsx
+
+# Temporary files
+*.temp.*
+*.tmp
+*.bak*
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
