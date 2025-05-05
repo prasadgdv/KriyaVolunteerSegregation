@@ -31,3 +31,9 @@ ENV/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Project specific folders
+pdfs_*/
+excels_*/
+pdfs/
+excels/
